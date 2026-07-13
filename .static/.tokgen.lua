@@ -6,4 +6,4 @@ mode;
   1 for letters, 
   2 for numbers, 
   3 for chars, numbers and letters
-  ]]--
+]]--
