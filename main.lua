@@ -1,1 +1,1 @@
-function lzysdk_static_tokgen()
+function lzysdk.static.tokgen()
