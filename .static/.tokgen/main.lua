@@ -6,4 +6,6 @@ mode;
   1 for letters
   2 for numbers
   3 for chars, numbers and letters
+
+lzysdk.static.tokgen() will be replaced by a token on runtime
 ]]--
