@@ -1,5 +1,5 @@
-lzysdk.misc.enhanced(1)
-lzysdk.misc.enhanced(2)
+lzysdk.misc.enhanced(start)
+lzysdk.misc.enhanced(end)
 
 --[[
 start; begins the enhanced block
